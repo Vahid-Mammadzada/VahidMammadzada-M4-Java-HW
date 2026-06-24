@@ -1,6 +1,6 @@
-package Blok_2;
+package Modul4HW1.Blok_2;
 
-public class tapshiriq_6 {
+public class tapshiriq6 {
     public static void main(String[] args) {
 
         int a = 17, b= 5;

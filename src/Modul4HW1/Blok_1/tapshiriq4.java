@@ -1,6 +1,6 @@
-package Blok_1;
+package Modul4HW1.Blok_1;
 
-public class tapshiriq_4 {
+public class tapshiriq4 {
     public static void main(String[] args) {
 
         int yas = 25;  // Xəta 1: İnt açar sözü kiçik hərflərlə yazılmalıdır.

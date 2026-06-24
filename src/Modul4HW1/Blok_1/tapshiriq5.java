@@ -1,6 +1,6 @@
-package Blok_1;
+package Modul4HW1.Blok_1;
 
-public class tapshiriq_5 {
+public class tapshiriq5 {
     public static void main(String[] args) {
 
         char adininBasHerifi = 'V';

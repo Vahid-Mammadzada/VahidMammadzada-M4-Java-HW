@@ -1,6 +1,6 @@
-package Blok_3;
+package Modul4HW1.Blok_3;
 
-public class tapshiriq_13 {
+public class tapshiriq13 {
     public static void main(String[] args) {
 
         // Kredit almaq üçün hamısı ödənilməlidir:

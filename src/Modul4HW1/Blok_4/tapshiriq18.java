@@ -1,6 +1,6 @@
-package Blok_4;
+package Modul4HW1.Blok_4;
 
-public class tapshiriq_18 {
+public class tapshiriq18 {
     public static void main(String[] args) {
 
         String tamAd = "leyla hüseynova";

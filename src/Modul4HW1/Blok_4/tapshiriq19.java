@@ -1,6 +1,6 @@
-package Blok_4;
+package Modul4HW1.Blok_4;
 
-public class tapshiriq_19 {
+public class tapshiriq19 {
     public static void main(String[] args) {
 
         String musteriAdi = "Vahid Mammadzada";

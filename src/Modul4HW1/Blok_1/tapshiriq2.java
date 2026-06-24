@@ -1,10 +1,10 @@
-package Blok_1;
+package Modul4HW1.Blok_1;
 
-public class tapshiriq_2 {
+public class tapshiriq2 {
     public static void main(String[] args) {
                 int bal = 1000;
                 System.out.println("Başlanğıc: " + bal); // → 1000
-                bal = bal + 500; // 500 əlavə et
+                bal += 500; // 500 əlavə et
                 System.out.println("500 əlavə: " + bal); // → 1500
                 bal -= 200; // 200 çıx
                 System.out.println("200 çıxdı: " + bal); // → 1300

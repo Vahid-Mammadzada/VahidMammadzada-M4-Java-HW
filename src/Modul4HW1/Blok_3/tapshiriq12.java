@@ -1,6 +1,6 @@
-package Blok_3;
+package Modul4HW1.Blok_3;
 
-public class tapshiriq_12 {
+public class tapshiriq12 {
     public static void main(String[] args) {
         boolean a = true, b = false, c = true;
 

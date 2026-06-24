@@ -1,6 +1,6 @@
-package Blok_2;
+package Modul4HW1.Blok_2;
 
-public class tapshiriq_7 {
+public class tapshiriq7 {
     public static void main(String[] args) {
 
     double mebleg = 8000.00;

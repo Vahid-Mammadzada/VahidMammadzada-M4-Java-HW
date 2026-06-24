@@ -1,6 +1,6 @@
-package Blok_1;
+package Modul4HW1.Blok_1;
 
-public class tapshiriq_3 {
+public class tapshiriq3 {
     public static void main(String[] args) {
 
         final int MIN_KREDIT_MEBLEGI = 300;

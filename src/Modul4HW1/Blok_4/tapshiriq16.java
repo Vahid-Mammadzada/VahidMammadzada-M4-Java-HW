@@ -1,6 +1,6 @@
-package Blok_4;
+package Modul4HW1.Blok_4;
 
-public class tapshiriq_16 {
+public class tapshiriq16 {
     public static void main(String[] args) {
 
         String metn = " Salam, ABB Bank! ";
