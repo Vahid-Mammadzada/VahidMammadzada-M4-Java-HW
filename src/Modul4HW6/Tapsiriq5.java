@@ -1,8 +1,8 @@
-package Modul4HW2.Blok4;
+package Modul4HW6;
 
 import java.util.Scanner;
 
-public class Tapshiriq12 {
+public class Tapsiriq5 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
