@@ -1,3 +1,5 @@
+package Modul4HW10.HW6;
+
 public abstract class Sened {
     String baslik;
 
