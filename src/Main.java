@@ -1,9 +1,19 @@
 public class Main {
     public static void main(String[] args) {
 
-        Menecer m = new Menecer("Vahid Məmmədzadə", 12);
-        System.out.println("Ad: " + m.ad);
-        System.out.println("Komanda sayı: " + m.komandaSayi);
+        System.out.println("--Bildiriş--");
+        Bildiris b = new Bildiris();
+        b.gonder();
+
+
+        System.out.println("--Email bildirişi--");
+        EmailBildiris e = new EmailBildiris();
+        e.gonder();
+
+
+        System.out.println("--Təcili email bildirişi--");
+        TeciliEmailBildiris t = new TeciliEmailBildiris();
+        t.gonder();
 
     }
 }
