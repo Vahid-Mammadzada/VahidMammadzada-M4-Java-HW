@@ -1,3 +1,5 @@
+package Modul4HW10.HW1;
+
 public class Isci {
     String ad;
 
