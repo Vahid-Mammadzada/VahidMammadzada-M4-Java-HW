@@ -15,7 +15,7 @@ public class tapshiriq19 {
         System.out.println("Ad:              " + musteriAdi);
         System.out.println("Yaş:             " + yas);
         System.out.println("Aylıq gəlir:     " + ayliqGelir);
-        System.out.println("Kredit məbləği:  " + krediMeblegi);
+        System.out.println("Modul4HW10.HW5.Kredit məbləği:  " + krediMeblegi);
         System.out.println("Müddət (ay):     " + muddet);
         System.out.println("İllik faiz:      " + illikFaiz);
 
@@ -40,7 +40,7 @@ public class tapshiriq19 {
         System.out.println("Gəlir şərti:     " + gelirSerti);
         System.out.println("Məbləğ şərti:    " + meblegSerti);
         System.out.println("Nisbət şərti:    " + nisbetSerti);
-        System.out.println("Kredit tarixi:   " + krediTarixiTemiz);
+        System.out.println("Modul4HW10.HW5.Kredit tarixi:   " + krediTarixiTemiz);
 
         boolean kreditTesdiqlenir = yasSerti && gelirSerti && meblegSerti && nisbetSerti && krediTarixiTemiz;
 

@@ -3,9 +3,9 @@ package Modul4HW1.Blok_3;
 public class tapshiriq13 {
     public static void main(String[] args) {
 
-        // Kredit almaq üçün hamısı ödənilməlidir:
+        // Modul4HW10.HW5.Kredit almaq üçün hamısı ödənilməlidir:
         //① Yaş: 21–65 aralığı ② Aylıq gəlir > 800 AZN
-        //③ Kredit məbləği: 300–50000 AZN ④ Kredit tarixi: true
+        //③ Modul4HW10.HW5.Kredit məbləği: 300–50000 AZN ④ Modul4HW10.HW5.Kredit tarixi: true
 
         //Müştəri 1
 

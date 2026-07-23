@@ -10,9 +10,9 @@ public class tapshiriq1 {
     String hesabNovu = "Yığım";
 
     System.out.println("Müştəri:        " + musteriAdi);
-    System.out.println("Hesab nömrəsi:  " + hesabNomresi);
+    System.out.println("Modul4HW10.HW5.Hesab nömrəsi:  " + hesabNomresi);
     System.out.println("Balans:         " + balans );
-    System.out.println("Aktiv Hesab:    " + aktivHesab);
-    System.out.println("Hesab növü:     " + hesabNovu);
+    System.out.println("Aktiv Modul4HW10.HW5.Hesab:    " + aktivHesab);
+    System.out.println("Modul4HW10.HW5.Hesab növü:     " + hesabNovu);
    }
 }

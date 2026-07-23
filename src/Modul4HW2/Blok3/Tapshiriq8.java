@@ -7,7 +7,7 @@ public class Tapshiriq8 {
         double gelir = 1200.0;
         boolean tarix = true;
 
-        // Kredit şərti: yaş 21-65, gəlir 800-dən çox, tarix true olmalı
+        // Modul4HW10.HW5.Kredit şərti: yaş 21-65, gəlir 800-dən çox, tarix true olmalı
 
         boolean yasUygun  = yas >= 21 && yas <= 65;   // böyük bərabərlik və kiçik bərabərlik
                                                       // operatorları istifadə olunmalıdır 21 və 65 -də
@@ -20,6 +20,6 @@ public class Tapshiriq8 {
 
         System.out.println("Yaş uyğun:   " + yasUygun);
         System.out.println("Gəlir uyğun: " + gelirUygun);
-        System.out.println("Kredit:      " + uygun);
+        System.out.println("Modul4HW10.HW5.Kredit:      " + uygun);
     }
 }

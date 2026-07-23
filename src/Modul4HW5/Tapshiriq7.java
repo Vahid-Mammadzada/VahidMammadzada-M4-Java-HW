@@ -12,7 +12,7 @@ public class Tapshiriq7 {
         System.out.print("Gəlirinizi daxil edin: ");
         double gelir = sc.nextDouble();
 
-        System.out.print("Kredit məbləğini daxil edin: ");
+        System.out.print("Modul4HW10.HW5.Kredit məbləğini daxil edin: ");
         double mebleg = sc.nextDouble();
 
         if (yas < 21 || yas > 65) {

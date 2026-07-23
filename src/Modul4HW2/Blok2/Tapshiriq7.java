@@ -16,8 +16,8 @@ public class Tapshiriq7 {
         boolean suretYanacaqUygun = ((0 < suret && suret < 120) || (yanacaq > 0)); // "Sürət 0-dan çox, 120-dən az VƏ YA yanacaq 0-dan çoxdur: "
         System.out.println("Sürət 0-dan çox, 120-dən az VƏ YA yanacaq 0-dan çoxdur:     " + suretYanacaqUygun);
 
-        boolean hesabBalansVeziyyeti = ( !aktiv || balans < 0 ); // "Hesab aktiv deyil VƏ ya balans mənfidir"
-        System.out.println("Hesab aktiv deyil VƏ ya balans mənfidir:                    " + hesabBalansVeziyyeti);
+        boolean hesabBalansVeziyyeti = ( !aktiv || balans < 0 ); // "Modul4HW10.HW5.Hesab aktiv deyil VƏ ya balans mənfidir"
+        System.out.println("Modul4HW10.HW5.Hesab aktiv deyil VƏ ya balans mənfidir:                    " + hesabBalansVeziyyeti);
 
         boolean adYasUygun = ( ad.length() > 0 && yas > 18); // "Ad boş deyil (uzunluğu 0-dan çoxdur) VƏ yaş 18-dən böyükdür"
         System.out.println("Ad boş deyil (uzunluğu 0-dan çoxdur) VƏ yaş 18-dən böyükdür " + adYasUygun);

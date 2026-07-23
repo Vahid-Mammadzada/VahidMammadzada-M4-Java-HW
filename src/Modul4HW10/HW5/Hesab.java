@@ -1,3 +1,5 @@
+package Modul4HW10.HW5;
+
 public abstract class Hesab {
 
     double balans;
