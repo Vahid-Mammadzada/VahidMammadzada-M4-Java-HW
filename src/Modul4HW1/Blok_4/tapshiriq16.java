@@ -23,7 +23,7 @@ public class tapshiriq16 {
         boolean varbank = metn.contains("bank");
         System.out.println("bank varmı?: " + varbank);
 
-        String evezleme =metn.replace("Bank", "Kredit");
+        String evezleme =metn.replace("Bank", "Modul4HW10.HW5.Kredit");
         System.out.println("Bankı Kreditlə əvəzlə: " + evezleme);
 
         boolean basliyirSalam =metnTrim.startsWith("Salam");

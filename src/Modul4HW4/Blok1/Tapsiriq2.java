@@ -6,7 +6,7 @@ public class Tapsiriq2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Kredit məbləğini daxil edin: ");
+        System.out.print("Modul4HW10.HW5.Kredit məbləğini daxil edin: ");
         double kreditMeblegi = sc.nextDouble();
 
         System.out.print("İllik faiz daxil edin: ");
