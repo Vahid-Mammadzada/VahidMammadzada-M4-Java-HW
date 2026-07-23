@@ -1,11 +1,17 @@
 public class Main {
     public static void main(String[] args) {
 
-        Test[] testler = {new UITest(), new APITest(), new DBTest()};
+        Depozit d = new Depozit(2000);
+        d.balansGoster();
+        d.faizHesabla();
 
-        for (Test t : testler) {
-            t.icraEt();
+        System.out.println();
 
-        }
+        Kredit k = new Kredit(4000);
+        k.balansGoster();
+        k.faizHesabla();
+
+        // Hesab h = new Hesab(1000); java: Hesab is abstract; cannot be instantiated
+
     }
 }
