@@ -1,4 +1,6 @@
-public class WordSened extends Sened{
+package Modul4HW10.HW6;
+
+public class WordSened extends Sened {
 
     WordSened(String baslik) {
         super(baslik);

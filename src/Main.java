@@ -1,10 +1,8 @@
 public class Main {
     public static void main(String[] args) {
 
-        PDFSened p = new PDFSened("Ərizə");
-        p.capEt();
+        Servis s = new Servis();
+        s.log();
 
-        WordSened w = new WordSened("Müqavilə");
-        w.capEt();
     }
 }

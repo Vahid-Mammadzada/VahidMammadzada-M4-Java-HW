@@ -1,4 +1,6 @@
-public class PDFSened extends Sened{
+package Modul4HW10.HW6;
+
+public class PDFSened extends Sened {
 
     PDFSened(String baslik) {
         super(baslik);
